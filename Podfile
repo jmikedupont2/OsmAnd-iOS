@@ -1,6 +1,6 @@
 source "https://github.com/CocoaPods/Specs.git"
 
-platform :ios, '7.0'
+platform :ios, '10.3'
 
 xcodeproj 'OsmAnd'
 workspace 'OsmAnd'
@@ -36,7 +36,7 @@ end
 # Make changes to Pods.xcconfig: 
 #  - HEADER_SEARCH_PATHS need to inherit project settings
 #  - 'libPods.a' needs $(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
-#  - Force architectures to '$(ARCHS_STANDARD)'
+#  - Force architectures to '$(ARCHS_STANDARD_64_BIT)'
 #  - Build all architectures for Pods
 post_install do |installer|
     workDir = Dir.pwd
@@ -62,7 +62,7 @@ post_install do |installer|
     #installer.project.targets.each do |target|
     installer.pods_project.targets.each do |target|
         target.build_configurations.each do |configuration|
-            configuration.build_settings['ARCHS'] = '$(ARCHS_STANDARD)'
+            configuration.build_settings['ARCHS'] = '$(ARCHS_STANDARD_64_BIT)'
             configuration.build_settings['ONLY_ACTIVE_ARCH'] = 'NO'
             configuration.build_settings['CONFIGURATION_BUILD_DIR'] = '${PROJECT_DIR}/../../binaries/ios.clang${EFFECTIVE_PLATFORM_NAME}/$(CONFIGURATION)'
         end

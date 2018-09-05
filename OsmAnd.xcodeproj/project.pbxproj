@@ -11209,59 +11209,11 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-OsmAnd Maps/Pods-OsmAnd Maps-resources.sh",
-				"${PODS_ROOT}/FormatterKit/Localizations/ca.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/cs.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/da.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/de.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/el.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/en.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/es.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/fr.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/id.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/it.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/ja.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/ko.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/nb.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/nl.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/nn.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/pl.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/pt.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/pt_BR.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/ru.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/sv.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/tr.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/uk.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/vi.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/zh-Hans.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/zh-Hant.lproj",
+				"${PODS_ROOT}/FormatterKit/FormatterKit/FormatterKit.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ca.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/cs.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/da.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/de.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/el.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/en.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/es.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/fr.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/id.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/it.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ja.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ko.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/nb.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/nl.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/nn.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/pl.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/pt.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/pt_BR.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ru.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/sv.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/tr.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/uk.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/vi.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/zh-Hans.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/zh-Hant.lproj",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FormatterKit.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -11306,59 +11258,11 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-OsmAnd Maps DEV/Pods-OsmAnd Maps DEV-resources.sh",
-				"${PODS_ROOT}/FormatterKit/Localizations/ca.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/cs.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/da.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/de.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/el.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/en.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/es.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/fr.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/id.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/it.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/ja.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/ko.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/nb.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/nl.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/nn.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/pl.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/pt.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/pt_BR.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/ru.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/sv.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/tr.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/uk.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/vi.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/zh-Hans.lproj",
-				"${PODS_ROOT}/FormatterKit/Localizations/zh-Hant.lproj",
+				"${PODS_ROOT}/FormatterKit/FormatterKit/FormatterKit.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ca.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/cs.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/da.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/de.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/el.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/en.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/es.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/fr.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/id.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/it.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ja.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ko.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/nb.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/nl.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/nn.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/pl.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/pt.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/pt_BR.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ru.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/sv.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/tr.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/uk.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/vi.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/zh-Hans.lproj",
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/zh-Hant.lproj",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FormatterKit.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -12285,6 +12189,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = NO;
@@ -12338,7 +12243,7 @@
 				INFOPLIST_PREFIX_HEADER = "";
 				INFOPLIST_PREPROCESS = YES;
 				INFOPLIST_PREPROCESSOR_DEFINITIONS = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"${PROJECT_DIR}/../core/externals/qtbase-ios/upstream.patched.ios.clang/lib",
@@ -12353,7 +12258,7 @@
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "$(ARCHS_STANDARD)";
+				VALID_ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 			};
 			name = Debug;
 		};
@@ -12361,6 +12266,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = NO;
@@ -12410,7 +12316,7 @@
 				INFOPLIST_PREFIX_HEADER = "";
 				INFOPLIST_PREPROCESS = YES;
 				INFOPLIST_PREPROCESSOR_DEFINITIONS = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"${PROJECT_DIR}/../core/externals/qtbase-ios/upstream.patched.ios.clang/lib",
@@ -12426,7 +12332,7 @@
 				STRIP_PNG_TEXT = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
-				VALID_ARCHS = "$(ARCHS_STANDARD)";
+				VALID_ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 			};
 			name = Release;
 		};
@@ -12446,6 +12352,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "OA-Prefix.pch";
 				INFOPLIST_PREPROCESSOR_DEFINITIONS = "OSMAND_BUNDLE_ID=net.osmand.maps";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -12488,6 +12395,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "OA-Prefix.pch";
 				INFOPLIST_PREPROCESSOR_DEFINITIONS = "OSMAND_BUNDLE_ID=net.osmand.maps";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
